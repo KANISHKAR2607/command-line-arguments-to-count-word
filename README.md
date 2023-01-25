@@ -27,8 +27,8 @@ Count the length of the word and print it
 ## PROGRAM:
 
 ```
-Developed by:KANISHKAR M
-register number:22007816
+#Developed by:KANISHKAR M
+#ROLL NO:22007816
 
 import sys
 count=0
@@ -41,6 +41,8 @@ print("Word Count in File=",count)
 
 ### OUTPUT:
 
+![5b pic](https://user-images.githubusercontent.com/118886772/214646546-06b7a413-4f7e-4964-a8f7-db7b30efda75.png)
+![KAN 5B](https://user-images.githubusercontent.com/118886772/214646581-5e70cfb2-3acf-42eb-9423-457ea924fe42.png)
 
 
 ## RESULT:
